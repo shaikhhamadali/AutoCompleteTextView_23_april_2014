@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AutoCompleteTextView</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- Array of cell phone companies names -->
+	<string-array name="CellphoneCompanies">
+	    <item>Samsung</item>
+	    <item>Sony</item>
+	    <item>SonyEricson</item>
+	    <item>Qmobile</item>
+	    <item>Motorola</item>
+	    <item>Nexus</item>
+	    <item>LG</item>
+	    <item>Ainol</item>
+	    <item>Iphone</item>
+	    <item>Ainol</item>
+	    <item>HTC</item>
+	</string-array>
+</resources>
